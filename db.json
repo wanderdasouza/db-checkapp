@@ -1,0 +1,36 @@
+{
+    "disseas": [ 
+    {
+      "_id": "312312312",
+      "name": "Osteoporose",
+      "actions": [
+        {
+          "_id": "434252",
+          "name": "Questionário FRAX",
+          "disclaimer": "",
+          "recommendationLevel": "high",
+          "actionInfo": {
+            "type": "quest",
+            "id": "7658"
+          }
+        },
+        {
+          "_id": "56767465",
+          "name": "Densitometria Ossea",
+          "disclaimer": "Fazer questionário FRAX",
+          "recommendationLevel": "low",
+          "actionInfo": {
+            "type": "wiki",
+            "id": "543542"
+          }
+        }
+      ]
+    },
+
+    {
+        "_id": "123456789",
+        "name": "HIV",
+        "actions": []
+    }
+]
+}
